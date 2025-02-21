@@ -9,10 +9,10 @@ const Diamond = () => (
       stroke="white"
       strokeWidth="10"
     />
-    <line x1="100" y1="20" x2="180" y2="100" stroke="#E86F37" strokeWidth="10" />
-    <line x1="180" y1="100" x2="100" y2="180" stroke="#D9A760" strokeWidth="10" />
-    <line x1="100" y1="180" x2="20" y2="100" stroke="#C75C5C" strokeWidth="10" />
-    <line x1="20" y1="100" x2="100" y2="20" stroke="#72BFAC" strokeWidth="10" />
+    <line x1="100" y1="20" x2="180" y2="100" stroke="#ff0000" strokeWidth="10" />   
+    <line x1="180" y1="100" x2="100" y2="180" stroke="#808080" strokeWidth="10" />  
+    <line x1="100" y1="180" x2="20" y2="100" stroke="#0000ff" strokeWidth="10" />  
+    <line x1="20" y1="100" x2="100" y2="20" stroke="#008000" strokeWidth="10" />  
   </svg>
 );
 
